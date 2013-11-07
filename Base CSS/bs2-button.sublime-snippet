@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<button class="btn" type="submit">${1:Button}</button>
+]]></content>
+	<tabTrigger>bs2-button</tabTrigger>
+	<description>bs2- default button</description>
+	<scope>text.html</scope>
+</snippet>

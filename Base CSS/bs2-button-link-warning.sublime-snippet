@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<a href="${1:#}" class="btn btn-warning">${2:Link}</a>
+]]></content>
+	<tabTrigger>bs2-link:w</tabTrigger>
+	<description>bs2- warning link button</description>
+	<scope>text.html</scope>
+</snippet>

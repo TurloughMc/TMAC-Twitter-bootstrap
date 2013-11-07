@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<span class="badge badge-inverse">${1:10}</span>
+]]></content>
+	<tabTrigger>bs2-badge:iv</tabTrigger>
+	<description>bs2- inverse badge</description>
+	<scope>text.html</scope>
+</snippet>

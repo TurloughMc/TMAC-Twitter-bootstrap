@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<a href="${1:#}" class="btn btn-large">${2:Link}</a>
+]]></content>
+	<tabTrigger>bs2-link:l</tabTrigger>
+	<description>bs2- large link button</description>
+	<scope>text.html</scope>
+</snippet>

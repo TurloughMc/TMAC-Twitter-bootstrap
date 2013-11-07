@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<span class="label label-warning">${1:Warning}</span>
+]]></content>
+	<tabTrigger>bs2-label:w</tabTrigger>
+	<description>bs2- warning inline label</description>
+	<scope>text.html</scope>
+</snippet>

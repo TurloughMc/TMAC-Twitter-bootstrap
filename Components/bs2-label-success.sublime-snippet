@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<span class="label label-success">${1:Success}</span>
+]]></content>
+	<tabTrigger>bs2-label:s</tabTrigger>
+	<description>bs2- success inline label</description>
+	<scope>text.html</scope>
+</snippet>
